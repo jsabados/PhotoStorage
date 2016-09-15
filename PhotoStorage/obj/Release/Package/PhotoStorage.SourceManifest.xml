@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\janko.sabados\Documents\Visual Studio 14\Projects\PhotoStorage\PhotoStorage\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\janko.sabados\Documents\Visual Studio 14\Projects\PhotoStorage\PhotoStorage\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\janko.sabados\Documents\Visual Studio 14\Projects\PhotoStorage\PhotoStorage\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
