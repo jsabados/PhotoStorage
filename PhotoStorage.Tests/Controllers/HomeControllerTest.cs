@@ -19,6 +19,7 @@ namespace PhotoStorage.Tests.Controllers
 
             // Assert
             Assert.IsNotNull(result);
+            Assert.AreEqual(TaskStatus.Running, result.Status);
         }
     }
 }
