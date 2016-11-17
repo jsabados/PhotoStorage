@@ -4,7 +4,7 @@
     <UseIISExpress>true</UseIISExpress>
     <NameOfLastUsedPublishProfile>PhotoStorage2016</NameOfLastUsedPublishProfile>
     <IISExpressSSLPort>44337</IISExpressSSLPort>
-    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
