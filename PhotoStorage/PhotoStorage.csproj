@@ -223,6 +223,7 @@
     <Content Include="Images\deleteImage.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="PhotoStorage.nuspec" />
     <None Include="Properties\PublishProfiles\PhotoStorage2016.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
