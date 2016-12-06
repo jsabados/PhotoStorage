@@ -19,7 +19,7 @@ namespace PhotoStorage.Tests.Controllers
 
             // Assert
             Assert.IsNotNull(result);
-            Assert.AreEqual(TaskStatus.RanToCompletion, result.Status);
+            Assert.AreEqual(TaskStatus.Completed, result.Status);
         }
     }
 }
