@@ -5,6 +5,7 @@
     <NameOfLastUsedPublishProfile>PhotoStorage2016</NameOfLastUsedPublishProfile>
     <IISExpressSSLPort>44337</IISExpressSSLPort>
     <ProjectView>ShowAllFiles</ProjectView>
+    <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
